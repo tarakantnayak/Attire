@@ -1,0 +1,7 @@
+{
+  "name": "Attire",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
